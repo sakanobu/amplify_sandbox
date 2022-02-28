@@ -25,7 +25,8 @@
     "baseUrl": "src",
   },
   "include": [
-    "src"
+    "src",
+    "amplify"
   ],
   "exclude": [
     "node_modules",
