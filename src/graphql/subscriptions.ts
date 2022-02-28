@@ -14,8 +14,6 @@ export const onCreateReview = /* GraphQL */ `
       name
       category
       image
-      created_at
-      updated_at
       id
       createdAt
       updatedAt
@@ -34,8 +32,6 @@ export const onUpdateReview = /* GraphQL */ `
       name
       category
       image
-      created_at
-      updated_at
       id
       createdAt
       updatedAt
@@ -54,8 +50,6 @@ export const onDeleteReview = /* GraphQL */ `
       name
       category
       image
-      created_at
-      updated_at
       id
       createdAt
       updatedAt

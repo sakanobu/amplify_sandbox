@@ -14,8 +14,6 @@ export const getReview = /* GraphQL */ `
       name
       category
       image
-      created_at
-      updated_at
       id
       createdAt
       updatedAt
@@ -39,8 +37,6 @@ export const listReviews = /* GraphQL */ `
         name
         category
         image
-        created_at
-        updated_at
         id
         createdAt
         updatedAt

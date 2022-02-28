@@ -12,6 +12,4 @@ type Review @model {
   name: String!
   category: String
   image: String
-  created_at: AWSTimestamp!
-  updated_at: AWSTimestamp!
 }
